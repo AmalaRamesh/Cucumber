@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="68.758" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="product application" name="product page" time="68.549">
+<system-out><![CDATA[
+Given browseropen...........................................................passed
+And enter the demowebshop and click the link................................passed
+When user click thecomputer product and click the note book.................passed
+And click the laptop and addtocart..........................................passed
+And click the shoppinglist..................................................passed
+And click the selectbutton..................................................passed
+And click the termagree button..............................................passed
+And user enter the mailid...................................................passed
+And user enter the pass word................................................passed
+And user enter the Login button.............................................passed
+And click the select button 1...............................................passed
+And click the term agree button 1...........................................passed
+And click the BillingAddress................................................passed
+And click instore button andcontinue........................................passed
+And click the paycontinue...................................................passed
+And click the infromcontinue................................................passed
+Then click the confirmbutton................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
